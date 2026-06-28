@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "file_lock.h": "c",
+        "auth.h": "c",
+        "stdlib.h": "c",
+        "fcntl.h": "c",
+        "unistd.h": "c",
+        "admin_handler.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "faculty_handler.h": "c",
+        "student_handler.h": "c",
+        "socket.h": "c",
+        "user.h": "c",
+        "course.h": "c",
+        "__hash_table": "c",
+        "array": "c",
+        "complex": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "variant": "c",
+        "__locale": "c",
+        "ios": "c"
+    }
+}
